@@ -1,0 +1,26 @@
+{
+  "name": "ddf--gapminder--systema_globalis",
+  "version": "1.0.0",
+  "description": "The name is inspired by [Systema Naturae](https://en.wikipedia.org/wiki/Systema_Naturae); the first systematic compilation of all living things from year 1735, by the Swedish Scientist Carl von Linné. The goal of Systema Globalis is to compile all public statistics; Social, Economic and Environmental; into a comparable total dataset.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/open-numbers/ddf--gapminder--systema_globalis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/open-numbers/ddf--gapminder--systema_globalis/issues"
+  },
+  "homepage": "https://github.com/open-numbers/ddf--gapminder--systema_globalis#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "dotenv": "^16.0.2",
+    "fs": "^0.0.1-security",
+    "json-2-csv": "^3.17.1"
+  }
+}
